@@ -1,1 +1,0 @@
-../mpn/x86_64/goldmont/aorrlsh_n.asm

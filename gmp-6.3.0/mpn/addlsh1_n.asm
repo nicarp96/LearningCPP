@@ -1,1 +1,0 @@
-../mpn/x86_64/silvermont/aorrlsh1_n.asm

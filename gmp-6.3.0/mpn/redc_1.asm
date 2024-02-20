@@ -1,1 +1,0 @@
-../mpn/x86_64/goldmont/redc_1.asm
