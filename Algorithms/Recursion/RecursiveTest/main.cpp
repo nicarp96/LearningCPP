@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-void fun(int n){
+int fun(int n){
     if(n>0){
-        cout<<n<<endl;
-        fun(n-1);
+        return fun(n-1)+n;
     }
+    return 0;
 }
 
-int main(int argc, char **argv) {
-    fun(5);
+int main() {
+    cout<<fun(5);
     return 0;
 }

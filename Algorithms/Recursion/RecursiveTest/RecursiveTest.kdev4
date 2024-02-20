@@ -1,3 +1,4 @@
 [Project]
-Name=RecursiveTest
+CreatedFrom=CMakeLists.txt
 Manager=KDevCMakeManager
+Name=RecursiveTest
