@@ -1,0 +1,1 @@
+../mpn/x86_64/silvermont/mullo_basecase.asm

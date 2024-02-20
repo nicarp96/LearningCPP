@@ -1,0 +1,1 @@
+../mpn/x86_64/goldmont/aorsmul_1.asm

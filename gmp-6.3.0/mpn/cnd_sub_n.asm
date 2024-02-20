@@ -1,0 +1,1 @@
+../mpn/x86_64/atom/cnd_sub_n.asm

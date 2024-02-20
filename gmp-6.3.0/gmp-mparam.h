@@ -1,0 +1,1 @@
+mpn/x86_64/goldmont/gmp-mparam.h

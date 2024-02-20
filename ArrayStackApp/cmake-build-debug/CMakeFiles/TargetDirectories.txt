@@ -1,0 +1,3 @@
+/home/nicarp/coding/ArrayStackApp/cmake-build-debug/CMakeFiles/ArrayStackApp.dir
+/home/nicarp/coding/ArrayStackApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nicarp/coding/ArrayStackApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
